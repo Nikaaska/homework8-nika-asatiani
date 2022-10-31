@@ -1,0 +1,177 @@
+.container {width: 1170px;
+    margin: 0 auto;
+
+
+}
+
+
+.header {
+
+	height: 81px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo {
+	
+	
+	margin-left: 95px;
+}
+
+ul li {
+	font-size: 15px;
+	color: grey;
+	margin-right: 50px;
+}
+
+ul {
+		display: flex;
+	    flex-direction: row-reverse;
+}
+
+
+
+.containerbanner{
+	width: 1170px;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	position: relative;
+	align-items: center;
+	margin-bottom: 50px ;
+
+}
+
+.baner {
+
+	width: 1170px;
+	height: 500px;
+	position: absolute;
+  }
+
+.text{
+	width: 600px;
+	height: 129px;
+	position: absolute;
+	text-align: center;
+	
+}
+
+h1 {
+	font-size: 78px;
+	color: #ffffff;
+}
+
+h2 {
+	font-size: 18px;
+	color:grey;
+}
+
+
+
+
+
+.bigbox{
+	width: 1170px;
+	height: 600px;
+	display: flex;
+	display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+
+
+
+ 
+
+}
+
+.box2{
+	width: 250px;
+	height: 170px;
+}
+
+.box1{
+	width:250px ;
+	height: 240px;
+	margin-left:19px ;
+	margin-right:14px ;
+	margin-bottom: 30px;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+
+.box3 {
+	width: 242px;
+	height:237px ;
+}
+
+
+
+.pic{
+	width:250px ;
+	height:170px ;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+
+
+
+	
+	
+}
+
+.txt1{
+	width: 200px;
+	height: 10px;
+	margin-bottom: 5px;
+	font-size: 14px;
+	
+	
+	
+}
+
+.txt2{
+
+
+	height: 10px;
+    width: 250px;
+	font-size: 10px;
+    margin-top: 5px;
+
+
+    
+	
+}
+
+.txt3{
+	width: 200px;
+	height: 145px;
+	font-size: 13px;
+	margin-top: 45px;
+
+}
+
+.txt4{
+
+	width: 201px;
+	height: 21px;
+	font-size: 20px;
+	color: grey;
+	margin-top: 50px;
+
+}
+
+
+
+
+
+
+
+
+	
+
+
